@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SandipDeshmukh
-- 👀 I’m interested in Node.js, Angular, Veu.js
+- 👀 I’m interested in React, Node.js, Angular, Veu.js
 - 🌱 I’m currently learning Mean Stack
 - 💞️ I’m looking to collaborate on Learning Mean stack 
 - 📫 How to reach me - deshmukhsandip622@gmail.com
